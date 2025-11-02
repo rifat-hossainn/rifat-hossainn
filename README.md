@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm MD Rifat Hossain! 👋
 
-<!--
-**rifat-hossainn/rifat-hossainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a results-driven **Full Stack Web Developer** and **Junior Software Developer** currently working at **Stm Software Ltd**. I specialize in developing robust web applications and software solutions, with a proven track record of successfully delivering various projects, including the "rainbowsoftware" website.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Work Experience & Expertise
+
+Currently, my focus is on software development using **C#**, **ASP.NET**, and **MS SQL Server**. I'm passionate about building scalable and efficient applications across the full stack.
+
+---
+
+### 🛠️ Skills & Technologies
+
+Here are the technologies and tools I work with:
+
+#### Languages & Frameworks
