@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm MD Rifat Hossain</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Junior Software Engineer at STM Software Ltd.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Rifat+Hossain;Full+Stack+Web+Developer;Junior+Software+Engineer;Passionate+Coder" alt="Typing SVG"/>
+</h1>
+
+<h3 align="center">🚀 Software Developer at STM Software Ltd.</h3>
 
 ---
 
 ### 💫 About Me  
-- 👨‍💻 Currently working as a **Software Developer** at **STM Software Ltd.**  
-- 🌐 Developed several professional websites like **Rainbow Software Ltd.**  
-- 💼 Passionate about **Full Stack Development** & building real-world scalable software.  
-- 📚 Currently focusing on **C# ASP.NET** and **MS SQL Server** development.  
-- 📧 Reach me at: **rhhossain668@gmail.com**  
+- 👨‍💻 Working as a **Software Developer** at **STM Software Ltd.**  
+- 🌐 Developed professional websites like **Rainbow Software Ltd.**  
+- 💼 Passionate about **Full Stack Development** & building scalable real-world software.  
+- 📚 Currently focusing on **C# ASP.NET** and **MS SQL Server**.  
+- 📧 Email: **rhhossain668@gmail.com**  
 - 🔗 Connect with me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifat-hossainn/)  
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rifat.hossain.544489)  
